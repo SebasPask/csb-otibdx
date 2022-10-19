@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sebaspask.github.io/csb-otibdx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sebaspask.github.io/csb-otibdx/static/js/main.551d550c.chunk.js",
+    "main.js.map": "https://sebaspask.github.io/csb-otibdx/static/js/main.551d550c.chunk.js.map",
+    "runtime-main.js": "https://sebaspask.github.io/csb-otibdx/static/js/runtime-main.30ba5552.js",
+    "runtime-main.js.map": "https://sebaspask.github.io/csb-otibdx/static/js/runtime-main.30ba5552.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://sebaspask.github.io/csb-otibdx/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://sebaspask.github.io/csb-otibdx/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://sebaspask.github.io/csb-otibdx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sebaspask.github.io/csb-otibdx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://sebaspask.github.io/csb-otibdx/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30ba5552.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.551d550c.chunk.js"
+  ]
+}
